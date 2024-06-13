@@ -12,15 +12,11 @@ This repository contains a Python implementation of the 2D Ising model. The Isin
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ising-model.git
+    git clone [https://github.com/yourusername/ising-model.git](https://github.com/dex-campbell/Ising_Model/blob/main/ising3.2.py)
     ```
 2. Navigate to the repository directory:
     ```sh
     cd ising-model
-    ```
-3. Install the required dependencies:
-    ```sh
-    pip install -r requirements.txt
     ```
 
 ## Usage
